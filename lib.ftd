@@ -22,7 +22,7 @@ children c:
 width: fill-container
 types: $holy-angel-typography.types
 colors: $fastn-cs-tail.main
-background.linear-gradient: $lg
+background.linear-gradient: blue
 
 -- ftd.column:
 width: fill-container
@@ -144,7 +144,7 @@ boolean $open: false
 
 -- ftd.column:
 width: fill-container
-background.solid: #000000aa
+background.solid: blue
 sticky: true
 
 -- ftd.row:
